@@ -1,4 +1,4 @@
-### Majo Patser
+### Majo Parser
 
 my first parser
 
